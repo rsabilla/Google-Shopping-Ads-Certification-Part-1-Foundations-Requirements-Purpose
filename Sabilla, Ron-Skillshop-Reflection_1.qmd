@@ -1,0 +1,68 @@
+---
+title: "Google Skillshop: Shopping Ads & CPP Farm Store Application"
+subtitle: "Grow Your Retail Business, Shopping Ads Fundamentals, and Key Requirements"
+author: "Ron Stephen Sabilla"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: right-body
+    toc-title: "Contents"
+    number-sections: true
+    code-fold: show
+    code-tools: true
+    theme: cosmo
+    highlight-style: github
+    df-print: paged
+    embed-resources: true
+execute:
+  warning: false
+  message: false
+  freeze: true
+---
+
+# Overview
+
+This report documents completion of three Google Skillshop modules — *Grow Your Retail Business with Google*, *Know How Shopping Ads Work*, and *Identify Key Shopping Ad Requirements* — along with a reflection connecting these concepts to the CPP Farm Store consulting project.
+
+# Certificates of Completion
+
+## Grow Your Monetization with Google Ad Manager
+
+![](Google_Manager.png){width=70%}
+
+## Launch Your AI-Powered Shopping Ads
+
+![](AI_Shopping_Ads.png){width=70%}
+
+## AI-Powered Shopping Ads Certification
+
+![](AI-Powered_Shopping_Ads.png){width=70%}
+
+# CPP Farm Store Application Reflection
+
+## How Shopping Ads Could Help CPP Farm Store Reach Customers
+
+Working through these Skillshop modules made it pretty clear how Shopping Ads could actually help CPP Farm Store, since farm stores are exactly the kind of business that benefits from showing up visually before someone even clicks through to a site. Shopping Ads pull directly from a product feed and show the image, price, and store name right in search results, so a customer searching something like "fresh eggs near Pomona" or "local honey CPP" could see CPP Farm Store's actual products with prices before ever landing on a page. That's a big shift from a normal text ad, since it's already answering "is this what I want" and "is it in my budget" before the click happens.
+
+## The Customer Segment That Benefits Most
+
+The customer segment that would benefit most from improved online product discovery is probably students and nearby community members who don't already know CPP Farm Store exists or don't think to check it for grocery-type items. A lot of people search generically ("local produce near me," "farm store Pomona") rather than searching the store by name, so if CPP Farm Store isn't showing up in that kind of general product search, it's invisible to a huge chunk of potential customers who would otherwise be a short drive away. Shopping Ads specifically solve for that "I didn't know to look for you" problem, since they surface based on product intent, not brand recognition.
+
+## Product Information and Ecommerce Requirements
+
+In terms of ecommerce requirements, CPP Farm Store would need a clean, structured product feed — meaning real product titles (not vague ones), clear pricing, accurate availability/stock status, and actual product images, since Shopping Ads pull directly from that feed rather than a written ad. They'd also need a landing page for each product (or at least a functioning storefront) that matches what's shown in the ad, since a mismatch between the ad and the actual page hurts both compliance and customer trust. This means someone needs to own keeping that feed updated — a farm store's inventory (like seasonal produce) can change often, so an outdated feed would create a bad customer experience fast.
+
+## Risks and Challenges
+
+The biggest risk I see is that farm stores often have inconsistent or seasonal inventory, and Shopping Ads assume a fairly stable, well-documented catalog. If CPP Farm Store lists a product that's actually out of stock, or the price changes without the feed updating, that creates a bad first impression for a new customer. There's also a resourcing risk — someone on the team needs to actually maintain the feed and make sure product photos/pricing stay current, which is more ongoing work than just writing a text ad once.
+
+## Applying This to Our Group Deliverables
+
+For our group's deliverables, this connects directly to the Shopify Mini-Store and Product Feed work — the Mini-Store setup is essentially what needs to exist so Shopping Ads have somewhere to send customers, and the Product Feed piece is exactly the structured data Shopping Ads pull from. If we build the mini-store and feed correctly from the start (accurate titles, pricing, images, and availability), the Retail Media Setup becomes much easier since the groundwork is already compliant with what Shopping Ads require. Basically, the modules reinforced that Shopping Ads aren't a standalone marketing tactic — they're only as good as the product data and storefront experience sitting behind them.
+
+# Appendix {.unnumbered}
+
+- **GitHub Repository:** [add your repo URL here](#)
+- **GitHub Pages (published report):** [add your GitHub Pages URL here](#)
